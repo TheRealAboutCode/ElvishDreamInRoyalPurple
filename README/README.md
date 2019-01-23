@@ -4,8 +4,12 @@ This repository holds another piece of art produced by the Collective called Abo
 It is called "Evlish Dream in Royal Purple".
 
 -+-
+
+
 LOCATION:
 To view the image, please go to the /img directory
+
+
 -+-
 
 This piece of art was produced using MandalaGaba.
