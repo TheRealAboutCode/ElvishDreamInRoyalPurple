@@ -5,7 +5,7 @@ It is called "Evlish Dream in Royal Purple".
 
 -+-
 
-This piece of art was produce using MandalaGaba.
+This piece of art was produced using MandalaGaba.
 
 URL: http://mandalagaba.com
 
